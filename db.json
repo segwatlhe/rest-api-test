@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "mtn": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profile": {
+  "yannitech": {
     "name": "typicode"
   }
 }
