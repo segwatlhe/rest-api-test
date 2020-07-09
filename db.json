@@ -11,7 +11,6 @@
 }
 
 
-//*****************
 
 {
   "employees": [
@@ -37,9 +36,8 @@
 }
 
 
-//************************
 {
-  "inventory":[
+  "inventory": [
       {
         "deviceId": 1
         "descriptionCtrl": "test",
