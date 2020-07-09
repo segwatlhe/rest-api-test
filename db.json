@@ -1,6 +1,6 @@
 
 {
-  "inventory": [
+  "inventory": 
       {
         "deviceId": 1,
         "descriptionCtrl": "test",
@@ -9,5 +9,4 @@
         "endDateCtrl": "2020-07-09T11:00:00.000Z",
         "manageStatusCtrl": "closed"
       }
-    ]
 }
