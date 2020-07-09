@@ -1,45 +1,8 @@
-{
-  "mtn": [
-    {
-      "id": 1,
-      "title": "hello mtn"
-    }
-  ],
-  "yannitech": {
-    "name": "typicode"
-  }
-}
-
-
-
-{
-  "employees": [
-    {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com"
-    },
-    {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
-    {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-    }
-  ]
-}
-
 
 {
   "inventory": [
       {
-        "deviceId": 1
+        "deviceId": 1,
         "descriptionCtrl": "test",
         "downtimeTypeCtrl": "scheduled",
         "startDateCtrl": "2020-07-08T11:00:00.000Z",
