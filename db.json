@@ -1,6 +1,6 @@
 
 {
-  "inventory": 
+  "inventory": [
       {
         "deviceId": 1,
         "descriptionCtrl": "test",
@@ -8,5 +8,14 @@
         "startDateCtrl": "2020-07-08T11:00:00.000Z",
         "endDateCtrl": "2020-07-09T11:00:00.000Z",
         "manageStatusCtrl": "closed"
+      },
+        {
+        "deviceId": 1,
+        "descriptionCtrl": "test",
+        "downtimeTypeCtrl": "scheduled",
+        "startDateCtrl": "2020-07-08T11:00:00.000Z",
+        "endDateCtrl": "2020-07-09T11:00:00.000Z",
+        "manageStatusCtrl": "closed"
       }
+    ]
 }
