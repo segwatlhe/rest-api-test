@@ -16,6 +16,78 @@
         "startDate": "2020-07-08T11:00:00.000Z",
         "endDate": "2020-07-09T11:00:00.000Z",
         "manageStatus": "closed"
+      },
+        {
+        "deviceId": 3,
+        "description": "xxxx",
+        "downtimeType": "scheduled2",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 4,
+        "description": "yannitech",
+        "downtimeType": "midrand",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 5,
+        "description": "mtn",
+        "downtimeType": "mtn business",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 6,
+        "description": "loki",
+        "downtimeType": "2001",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "open"
+      },
+        {
+        "deviceId": 7,
+        "description": "seven eleven",
+        "downtimeType": "twelve",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 8,
+        "description": "love",
+        "downtimeType": "ngcaku",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 9,
+        "description": "chesa",
+        "downtimeType": "hoolooloo",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 10,
+        "description": "turf",
+        "downtimeType": "surf",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 11,
+        "description": "angular",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
       }
     ]
 }
