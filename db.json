@@ -2,7 +2,7 @@
 {
   "inventory": [
       {
-        "id": 1,
+        "deviceId": 1,
         "description": "test",
         "downtimeType": "scheduled",
         "startDate": "2020-07-08T11:00:00.000Z",
@@ -10,7 +10,7 @@
         "manageStatus": "closed"
       },
         {
-        "id": 2,
+        "deviceId": 2,
         "description": "test2",
         "downtimeType": "scheduled2",
         "startDate": "2020-07-08T11:00:00.000Z",
