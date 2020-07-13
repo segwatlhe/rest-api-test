@@ -2,20 +2,20 @@
 {
   "inventory": [
       {
-        "deviceId": 1,
-        "descriptionCtrl": "test",
-        "downtimeTypeCtrl": "scheduled",
-        "startDateCtrl": "2020-07-08T11:00:00.000Z",
-        "endDateCtrl": "2020-07-09T11:00:00.000Z",
-        "manageStatusCtrl": "closed"
+        "id": 1,
+        "description": "test",
+        "downtimeType": "scheduled",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
       },
         {
-        "deviceId": 2,
-        "descriptionCtrl": "test2",
-        "downtimeTypeCtrl": "scheduled2",
-        "startDateCtrl": "2020-07-08T11:00:00.000Z",
-        "endDateCtrl": "2020-07-09T11:00:00.000Z",
-        "manageStatusCtrl": "closed"
+        "id": 2,
+        "description": "test2",
+        "downtimeType": "scheduled2",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
       }
     ]
 }
