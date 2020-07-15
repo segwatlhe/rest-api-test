@@ -88,6 +88,14 @@
         "startDate": "2020-07-08T11:00:00.000Z",
         "endDate": "2020-07-09T11:00:00.000Z",
         "manageStatus": "closed"
+      },
+        {
+        "deviceId": 12,
+        "description": "angular",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
       }
     ]
 }
