@@ -96,6 +96,46 @@
         "startDate": "2020-07-08T11:00:00.000Z",
         "endDate": "2020-07-09T11:00:00.000Z",
         "manageStatus": "closed"
+      },
+        {
+        "deviceId": 13,
+        "description": "benny",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 14,
+        "description": "ben",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 15,
+        "description": "bennito",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 16,
+        "description": "benzo",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
+      },
+        {
+        "deviceId": 17,
+        "description": "yellow",
+        "downtimeType": "spring-boot",
+        "startDate": "2020-07-08T11:00:00.000Z",
+        "endDate": "2020-07-09T11:00:00.000Z",
+        "manageStatus": "closed"
       }
     ]
 }
