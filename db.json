@@ -1,6 +1,6 @@
 
 {
-  "byDeviceName": [
+  "inventory": [
    {
         "id": 1,
         "deviceName": "test",
