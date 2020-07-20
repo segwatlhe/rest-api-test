@@ -1,141 +1,65 @@
 
 {
   "inventory": [
-      {
-        "deviceId": 1,
-        "description": "test",
-        "downtimeType": "scheduled",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 2,
-        "description": "test2",
-        "downtimeType": "scheduled2",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 3,
-        "description": "xxxx",
-        "downtimeType": "scheduled2",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 4,
-        "description": "yannitech",
-        "downtimeType": "midrand",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 5,
-        "description": "mtn",
-        "downtimeType": "mtn business",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 6,
-        "description": "loki",
-        "downtimeType": "2001",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "open"
-      },
-        {
-        "deviceId": 7,
-        "description": "seven eleven",
-        "downtimeType": "twelve",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 8,
-        "description": "love",
-        "downtimeType": "ngcaku",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 9,
-        "description": "chesa",
-        "downtimeType": "hoolooloo",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 10,
-        "description": "turf",
-        "downtimeType": "surf",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 11,
-        "description": "angular",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 12,
-        "description": "angular",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 13,
-        "description": "benny",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 14,
-        "description": "ben",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 15,
-        "description": "bennito",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 16,
-        "description": "benzo",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      },
-        {
-        "deviceId": 17,
-        "description": "yellow",
-        "downtimeType": "spring-boot",
-        "startDate": "2020-07-08T11:00:00.000Z",
-        "endDate": "2020-07-09T11:00:00.000Z",
-        "manageStatus": "closed"
-      }
+   {
+        "id": 1,
+        "deviceName": "test",
+        "startTimestamp": "2020-06-17T19:24:52.338335",
+        "endTimestamp": "2020-06-17T19:24:52.338335",
+        "duration": "2222",
+        "actualDowntime": "3333",
+        "planedWorkRef": "3432",
+        "purpose": "5555",
+        "rollback_procedure": "66666",
+        "verification_procedure": "77777",
+        "climbing_required": "8888",
+        "onsite_engineers_required": "99999",
+        "access_required_comments": "11111",
+        "approved": true,
+        "type": "EMERGENCY",
+        "incident_id": "111111",
+        "downtimeCustomerDetails": [
+            {
+                "id": 1,
+                "customerName": "bill",
+                "customerContactEmail": "gates"
+            },
+            {
+                "id": 2,
+                "customerName": "werk2",
+                "customerContactEmail": "werrrrr2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "deviceName": "test",
+        "startTimestamp": "2020-06-17T19:24:52.338335",
+        "endTimestamp": "2020-06-17T19:24:52.338335",
+        "duration": "2222",
+        "actualDowntime": "3333",
+        "planedWorkRef": "3432",
+        "purpose": "5555",
+        "rollback_procedure": "66666",
+        "verification_procedure": "77777",
+        "climbing_required": "8888",
+        "onsite_engineers_required": "99999",
+        "access_required_comments": "11111",
+        "approved": true,
+        "type": "EMERGENCY",
+        "incident_id": "111111",
+        "downtimeCustomerDetails": [
+            {
+                "id": 3,
+                "customerName": "bill",
+                "customerContactEmail": "gates"
+            },
+            {
+                "id": 4,
+                "customerName": "werk2",
+                "customerContactEmail": "werrrrr2"
+            }
+        ]
+    }
     ]
 }
